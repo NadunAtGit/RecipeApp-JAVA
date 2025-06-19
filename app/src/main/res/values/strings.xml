@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">THECHEF</string>
+    <string name="title_activity_home1">Home1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">735695526448-d1lfoebfrmbrfva2jfv9c143echf6m8m.apps.googleusercontent.com</string>
+
+
+    <string-array name="categories">
+        <item>Pizza</item>
+        <item>Mains</item>
+        <item>Salads</item>
+        <item>Soup</item>
+        <item>Drinks</item>
+        <item>Desserts</item>
+        <item>Curry</item>
+        <item>Snacks</item>
+    </string-array>
+
+
+</resources>
